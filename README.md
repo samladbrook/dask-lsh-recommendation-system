@@ -32,6 +32,14 @@ Each record includes:
 
 The dataset is not included in this repository due to its size and licensing. The notebook assumes the dataset is downloaded separately.
 
+## Documentation
+
+This project includes the original documentation produced during the university project:
+
+- `proposal.pdf` — initial project plan, research question, motivation, and method design
+- `progress-report.pdf` — interim progress update, early results, parameter tuning, and project risks
+- `final-report.pdf` — final evaluation, results, critique, and reflection
+
 ## Methods
 
 The pipeline follows these main stages:
@@ -76,11 +84,12 @@ dask-lsh-recommender/
 │
 ├── README.md
 ├── data301-project-samladbrook.ipynb
-├── DATA301 Project Submission - Sam Ladbrook.pdf
-├── DATA301 Project Progress Report - Sam Ladbrook.pdf
-├── DATA301 Project Project Proposal - Sam Ladbrook.pdf
 ├── requirements.txt
-└── .gitignore
+├── .gitignore
+└── docs/
+    ├── proposal.pdf
+    ├── progress-report.pdf
+    └── final-report.pdf
 ```
 
 ## How to Run
