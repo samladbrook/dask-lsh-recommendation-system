@@ -1,0 +1,25 @@
+# Data files
+data/
+*.csv
+*.json
+*.json.gz
+*.parquet
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+
+# Env files
+.env
+.venv/
+venv/
+
+# Mac files
+.DS_Store
+
+# Output files
+outputs/
+*.png
