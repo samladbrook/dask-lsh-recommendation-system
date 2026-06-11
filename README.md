@@ -83,7 +83,7 @@ Overall, the project showed that LSH can make collaborative filtering much more 
 dask-lsh-recommender/
 │
 ├── README.md
-├── data301-project-samladbrook.ipynb
+├── lsh-recommender.ipynb
 ├── requirements.txt
 ├── .gitignore
 └── docs/
@@ -112,7 +112,7 @@ pip install -r requirements.txt
 4. Open the notebook:
 
 ```bash
-jupyter notebook data301-project-samladbrook.ipynb
+jupyter notebook lsh-recommender.ipynb
 ```
 
 ## Notes
