@@ -112,7 +112,7 @@ pip install -r requirements.txt
 4. Open the notebook:
 
 ```bash
-jupyter notebook data301-project-samladbrook.ipynb
+jupyter notebook lsh-recommender.ipynb
 ```
 
 ## Notes
